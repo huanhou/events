@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f179c10.css",
+    "main.js": "/static/js/main.250838cf.js",
+    "static/media/hero-image.jpg": "/static/media/hero-image.e41011dba892661edc02.jpg",
+    "static/media/team3.jpg": "/static/media/team3.303ddbae8988a6138274.jpg",
+    "static/media/team1.jpg": "/static/media/team1.bf074fd0ace1f3dad40e.jpg",
+    "static/media/team2.jpg": "/static/media/team2.2d2c6f43a3b5288e1b8c.jpg",
+    "static/media/conference.jpg": "/static/media/conference.a6c85a53c13f67025966.jpg",
+    "static/media/festival.jpg": "/static/media/festival.08de481ac57f2ae0adc0.jpg",
+    "static/media/art.jpg": "/static/media/art.ee4e27c25abfc0da1659.jpg",
+    "static/media/workshop.jpg": "/static/media/workshop.1be4eea05200421f8e60.jpg",
+    "index.html": "/index.html",
+    "main.5f179c10.css.map": "/static/css/main.5f179c10.css.map",
+    "main.250838cf.js.map": "/static/js/main.250838cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f179c10.css",
+    "static/js/main.250838cf.js"
+  ]
+}
